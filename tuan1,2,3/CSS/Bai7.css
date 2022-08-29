@@ -1,0 +1,10 @@
+.p1 .a{
+    vertical-align: text-bottom;
+} 
+.p2 .a{
+    vertical-align: text-top;
+} 
+.p3 .a{
+    vertical-align: text-top;
+    margin-top:-35px ;
+} 

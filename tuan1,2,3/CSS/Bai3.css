@@ -1,0 +1,17 @@
+#caub {
+    background-color: rgb(202, 136, 12);
+}
+u{
+    text-transform: capitalize;
+}
+.D1 {
+    text-align: left;
+}
+
+.D2 {
+    text-align: center;
+}
+
+.D3 {
+    text-align: right;
+}

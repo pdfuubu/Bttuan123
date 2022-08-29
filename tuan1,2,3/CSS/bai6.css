@@ -1,0 +1,20 @@
+#bang1{
+    border: none;
+    background-color: rgba(226, 217, 81, 0.781);
+    display: inline-block;
+    padding: 10px;
+    float: left;
+    margin-right: 120px;
+}
+#bang1 table {
+    border-collapse: collapse;
+    width: 300px;
+}
+#bang1 table tr td {
+    border: 2px solid rgba(233, 232, 175, 0.863);
+    border-collapse: collapse;
+    width: 10%;
+    text-align: center;
+    border-width: 4px;
+}
+

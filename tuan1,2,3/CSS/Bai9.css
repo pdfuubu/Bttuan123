@@ -1,0 +1,22 @@
+.bang{
+    border: 2px solid  rgb(106, 116, 106);
+    display: inline-block;
+    margin-top: 50px;
+    padding-top: -50px;
+}
+.bang p{
+    font-size: 200%;
+   
+}
+.bang table{
+    border-collapse: collapse;
+}
+.bang table, tr, td{
+    border: 2px solid black;
+    text-align: center;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
